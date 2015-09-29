@@ -1,0 +1,6 @@
+*.sw[op]
+vendor
+phalcon/app/config/config.php
+phalcon/app/cache
+.vagrant
+composer.lock
